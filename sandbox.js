@@ -1,14 +1,21 @@
 "use strct";
 
+// box one
 const plus = document.querySelector("img.plus");
 const answer1 = document.querySelector(".questionOne-answer");
 const ones = document.querySelectorAll(".one-remove");
+
+// box two
 const twos = document.querySelectorAll(".twos");
 const answer2 = document.querySelector(".questionTwo-answer");
 const plus2 = document.querySelector(".plus2");
+
+// box three 
 const threes = document.querySelectorAll(".threes");
 const answer3 = document.querySelector(".questionThree-answer");
 const plus3 = document.querySelector(".plus3");
+
+// box four 
 const fours = document.querySelectorAll(".fours");
 const answer4 = document.querySelector(".questionFour-answer");
 const plus4 = document.querySelector(".plus4");
