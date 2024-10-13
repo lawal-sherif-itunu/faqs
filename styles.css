@@ -24,6 +24,10 @@ main {
   /* padding-top: 5rem; */
 }
 
+a {
+  color: #000;
+  text-decoration: none;
+}
 .background-head-img {
   position: absolute;
   top: 0;
